@@ -165,8 +165,8 @@ Licensed under the **MIT License** — see [LICENSE](LICENSE) file for full deta
 
 ## 📬 Contact
 
-**Maintainer:** Your Name  
-**Email:** your.email@example.com  
+**Maintainer:** Pawan Kumar  
+**Email:** aegis.invincible@gmail.com 
 **GitHub:** [https://github.com/axiomchronicles](https://github.com/axiomchronicles)  
 
 ---
