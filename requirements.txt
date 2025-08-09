@@ -1,0 +1,7 @@
+aquilify[full]
+pydantic
+numpy
+uvicorn
+requests
+axiomelectrus
+netix
